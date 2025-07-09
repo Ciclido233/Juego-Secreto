@@ -15,18 +15,20 @@ Características principales:
 - Interfaz sencilla y amigable
 
 Tecnologías Utilizadas 💻
-HTML5 - Estructura básica del juego
 
-CSS3 - Estilos y diseño visual
+- HTML5 - Estructura básica del juego
 
-JavaScript - Lógica del juego y funcionalidad
+- CSS3 - Estilos y diseño visual
+
+- JavaScript - Lógica del juego y funcionalidad
 
 Cómo Jugar 🎮
-El sistema genera un número secreto entre 1 y 10
 
-Ingresa tu suposición en el campo de texto
+- El sistema genera un número secreto entre 1 y 10
 
-Haz clic en el botón "Intentar"
+- Ingresa tu suposición en el campo de texto
+
+- Haz clic en el botón "Intentar"
 
 Recibirás pistas si tu número es mayor o menor que el secreto
 
