@@ -1,17 +1,18 @@
 Juego del Número Secreto 🔢🎮
 
 Acerca del Proyecto 📝
+
 Este es un juego simple pero entretenido de "Adivina el Número Secreto", desarrollado como parte del curso de Alura Latam en colaboración con Oracle Next Education (ONE).
 
 Características principales:
 
-Genera un número aleatorio entre 1 y 10
+- Genera un número aleatorio entre 1 y 10
 
-El jugador debe adivinar el número secreto
+- El jugador debe adivinar el número secreto
 
-Proporciona pistas si el número es mayor o menor
+- Proporciona pistas si el número es mayor o menor
 
-Interfaz sencilla y amigable
+- Interfaz sencilla y amigable
 
 Tecnologías Utilizadas 💻
 HTML5 - Estructura básica del juego
